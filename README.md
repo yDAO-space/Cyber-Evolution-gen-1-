@@ -2,3 +2,4 @@
 Python server
 
 TODO install
+print ("hello") 
